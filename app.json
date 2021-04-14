@@ -35,7 +35,7 @@
         "WEBHOOK": {
             "description": "Set this Value to 'ANYTHING'. Don't Change it",
             "value": "ANYTHING"
-            "required": false
+            
         }
     },
     "addons": [],
