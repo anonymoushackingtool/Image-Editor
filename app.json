@@ -15,17 +15,17 @@
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
-            "required": true
+            
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
             "value": ""
-            "required": true
+            
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
-            "required": true
+            
         },
         "RemoveBG_API": {
             "description": "Get this api from https://www.remove.bg/b/background-removal-api",
