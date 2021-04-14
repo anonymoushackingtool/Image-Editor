@@ -6,23 +6,26 @@
         "Image",
         "Editor",
         "Telegram Bot",
-        "TroJanzHEX"
+        "anonymoushackingtool"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://github.com/anonymoushackingtool",
+    "repository": "https://github.com/anonymoushackingtool/Image-Editor",
+    "success_url": "https://telegram.dog/TG_Free_Bots",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
+            "required": true
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
             "value": ""
+            "required": true
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
             "value": ""
+            "required": true
         },
         "RemoveBG_API": {
             "description": "Get this api from https://www.remove.bg/b/background-removal-api",
@@ -32,6 +35,7 @@
         "WEBHOOK": {
             "description": "Set this Value to 'ANYTHING'. Don't Change it",
             "value": "ANYTHING"
+            "required": false
         }
     },
     "addons": [],
