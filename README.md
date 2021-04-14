@@ -26,7 +26,7 @@
 
 
 
-#### An [open source](https://github.com/anonymoushackingtool/Image-Editor)image editor which can manipulate an image in many ways!
+#### An [open source](https://github.com/anonymoushackingtool/Image-Editor) image editor which can manipulate an image in many ways!
 
 ## Installation
 
