@@ -18,7 +18,7 @@
   </a>  
 </p>
 
-[![TG Free Bots](https://img.shields.io/badge/TG_Free_Bots-Join Our Channel-ff69b4?style=for-the-badge&logo=telegram)](https://telegram.dog/TG_Free_Bots)  
+[![TG Free Bots](https://img.shields.io/badge/TG_Free_Bots-Join%20Our%20Channel-ff69b4?style=for-the-badge&logo=telegram)](https://telegram.dog/TG_Free_Bots)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/anonymoushackingtool/Image-Editor)
 
