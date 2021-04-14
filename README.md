@@ -22,13 +22,11 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-00FA9A?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)
 
-[Open Source](https://github.com/anonymoushackingtool/Image-Editor)
 
 
 
 
-
-#### An open source image editor which can manipulate an image in many ways!
+#### An [open source](https://github.com/anonymoushackingtool/Image-Editor)image editor which can manipulate an image in many ways!
 
 ## Installation
 
