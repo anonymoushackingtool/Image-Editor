@@ -7,20 +7,20 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Image-Editor/stargazers">
+  <a href="https://github.com/anonymoushackingtool/Image-Editor/stargazers">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Image-Editor?style=social">
 
   </a>
   
   <a href="https://github.com/TroJanzHEX/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Image-Editor?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/anonymoushackingtool/Image-Editor?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![anonymoushackingtool](https://img.shields.io/badge/anonymoushackingtool-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TG_Free_Bots)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![anonymoushackingtool](https://img.shields.io/badge/anonymoushackingtool-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
 
