@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anonymoushackingtool/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Image-Editor?style=social">
+    <img src="https://img.shields.io/github/stars/anonymoushackingtool/Image-Editor?style=social">
 
   </a>
   
